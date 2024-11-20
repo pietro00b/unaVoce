@@ -5,7 +5,7 @@ Una voce che non ha paura di esprimersi, che si lascia andare con fiducia e cora
 
 Elementi che compongono il brano:
 
-- [[Archetto]]
+- [Archetto](https://github.com/pietro00b/unaVoce/blob/main/Rumore.md)
 - [[Rumore]]
 - [[Sintesi per formanti]]
 
