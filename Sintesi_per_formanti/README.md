@@ -1,1 +1,0 @@
-# Sintesi per formanti
