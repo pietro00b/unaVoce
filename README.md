@@ -7,6 +7,6 @@ Una voce che non ha paura di esprimersi, che si lascia andare con fiducia e cora
 
 Elementi che compongono il brano:
 
-- [Archetto]
-- [Rumore]
-- [Sintesi per formanti]
+- [Archetto](https://github.com/pietro00b/unaVoce/blob/main/archetto/README.md)
+- [Rumore](https://github.com/pietro00b/unaVoce/blob/main/rumore/README.md)
+- [Sintesi per formanti](https://github.com/pietro00b/unaVoce/blob/main/sintesi_per_formanti/README.md)
